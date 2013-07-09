@@ -15,7 +15,7 @@ There are only a couple things you need to keep in mind:
 
 ### jclouds with Google App Engine Demo
 
-Before you get started, check out our [Google App Engine with jclouds demo](/documentation/examples/google-app-engine).
+Before you get started, check out our [Google App Engine with jclouds demo]({{ site.url }}/documentation/examples/google-app-engine).
 
 ### Configuring to use GAE compatible components
 Configuration can be made via property or a typed module.  Here's how you can do this:

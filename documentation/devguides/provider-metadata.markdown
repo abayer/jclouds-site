@@ -229,5 +229,5 @@ Now that we know how to implement and test provider metadata, below is an exampl
 to jclouds consumers. 
 
 For examples on how to use !ProviderMetadata now that you know how to implement your own, check out the 
-[Using Provider Metadata](/documentation/reference/using-provider-metadata) page.
+[Using Provider Metadata]({{ site.url }}/documentation/reference/using-provider-metadata) page.
 

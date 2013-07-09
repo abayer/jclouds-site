@@ -6,10 +6,10 @@
   <meta http-equiv="content-type" content="text/html; charset=iso-8859-1" />
 
   <!-- **** jclouds stylesheet **** -->
-  <link rel="stylesheet" type="text/css" href="/style/style.css"/>
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/style/style.css"/>
 
   <!-- **** syntax highlighting stylesheet **** -->
-  <link rel="stylesheet" type="text/css" href="/style/syntax.css"/>
+  <link rel="stylesheet" type="text/css" href="{{ site.url }}/style/syntax.css"/>
 
   <!-- **** Google Fonts **** -->
   <link href='http://fonts.googleapis.com/css?family=Droid+Sans+Mono' rel='stylesheet' type='text/css'>
@@ -34,7 +34,7 @@
 <body>
   <div id="main">
 	<div id="top">
-      <a href="/"><div id="logo"></div></a>
+      <a href="{{ site.url }}/"><div id="logo"></div></a>
       <div id="menu">
         {% capture menu %}{% include menu.md %}{% endcapture %} {{ menu | markdownify }} <!-- This bit of liquid lets us render the template components as markdown -->
       </div>

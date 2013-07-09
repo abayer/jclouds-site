@@ -8,9 +8,9 @@ title: Quick Start - Chef
 1. Setup a Chef Server or register for [Opscode Hosted Chef](https://community.opscode.com/users/new).
 2. Ensure you are using a recent JDK 6 version.
 3. Setup your project to include `chef`, `hostedchef` or `privatechef`, depending on the Chef flavor you are going to connect to.
-    * Get the dependencies `org.jclouds.api/chef` using jclouds [Installation](/documentation/userguide/installation-guide).
-    * Get the dependencies `org.jclouds.labs/hostedchef` using jclouds [Installation](/documentation/userguide/installation-guide).
-    * Get the dependencies `org.jclouds.labs/privatechef` using jclouds [Installation](/documentation/userguide/installation-guide).
+    * Get the dependencies `org.jclouds.api/chef` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide).
+    * Get the dependencies `org.jclouds.labs/hostedchef` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide).
+    * Get the dependencies `org.jclouds.labs/privatechef` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide).
 4. Start coding
 
 ## About Hosted and Private Chef
