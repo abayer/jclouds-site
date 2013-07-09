@@ -22,10 +22,10 @@ Below is more information on these enhancements.
   With this you can write test provisioning code without launching servers.
 * Our [vCloud vCloud] support is completely revamped to support the new 1.0 api implemented by [vCloud Director](http://www.vmware.com/products/vcloud-director/) 
   with many thanks to VMware and [BlueLock](http://www.bluelock.com/bluelock-cloud-hosting/virtual-cloud-enterprise/).  
-  Moreover, we've revamped [Terremark]({{ site.url }}/documentation/quickstart/terremark-vcloud-express) vCloud Express and started on their eCloud offering.
-* [Alfredo Morresi](http://www.rainbowbreeze.it) contributed a [filesystem blobstore]({{ site.url }}/documentation/userguide/blobstore-guide), 
+  Moreover, we've revamped [Terremark]({{ site.url }}/documentation/quickstart/terremark-vcloud-express/index.html) vCloud Express and started on their eCloud offering.
+* [Alfredo Morresi](http://www.rainbowbreeze.it) contributed a [filesystem blobstore]({{ site.url }}/documentation/userguide/blobstore-guide/index.html), 
   which allows you to to use the same api persisting to disk, memory, or a blobstore like Amazon S3.
-* With our  [blobstore portable request signer]({{ site.url }}/documentation/userguide/blobstore-guide),
+* With our  [blobstore portable request signer]({{ site.url }}/documentation/userguide/blobstore-guide/index.html),
   you can pass blobstore commands to non-java environments to execute.  Be creative!
 * Our core is stronger, now using [Asynchronous URLFetch](http://code.google.com/appengine/docs/java/javadoc/com/google/appengine/api/urlfetch/URLFetchService.html#fetchAsync%28com.google.appengine.api.urlfetch.HTTPRequest%29)
   in Google Appengine and jaxrs processing via [Jersey](https://jersey.dev.java.net/).

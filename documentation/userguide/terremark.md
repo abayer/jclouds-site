@@ -4,8 +4,8 @@ title: Overview of the Terremark Compute Offerings
 ---
 # Overview of the Terremark Compute Offerings
 ## Quick Start Guides
-  * [Terremark VCloudExpress]({{ site.url }}/documentation/quickstart/terremark-vcloud-express)
-  * [Terremark ECloud]({{ site.url }}/documentation/quickstart/terremark-ecloud)
+  * [Terremark VCloudExpress]({{ site.url }}/documentation/quickstart/terremark-vcloud-express/index.html)
+  * [Terremark ECloud]({{ site.url }}/documentation/quickstart/terremark-ecloud/index.html)
 
 ## Introduction
 

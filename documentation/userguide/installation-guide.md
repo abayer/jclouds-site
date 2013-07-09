@@ -86,7 +86,7 @@ with
       <dependency groupId="org.apache.jclouds.provider" artifactId="the-provider-id" version="1.6.1-incubating" />
 {% endhighlight %}
 
-You can see the list of supported providers and their ids in the [Supported Providers]({{ site.url }}/documentation/reference/supported-providers).
+You can see the list of supported providers and their ids in the [Supported Providers]({{ site.url }}/documentation/reference/supported-providers/index.html).
 
 ## <a id="ant-project"></a>Adding jclouds to your Apache Ant project
 

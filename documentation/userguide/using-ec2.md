@@ -6,12 +6,12 @@ title: Using the EC2 Api
 
 ## Introduction
 
-The compute service is implemented fully for EC2 - so you can follow the guides to using the [ComputeService API]({{ site.url }}/documentation/userguide/compute). 
+The compute service is implemented fully for EC2 - so you can follow the guides to using the [ComputeService API]({{ site.url }}/documentation/userguide/compute/index.html). 
 
 For credentials you will want you access key id and secret access key (don't use your user id or anything else). 
-For practical EC2 usage - you will probably want to check out [AWS Quick Start]({{ site.url }}/documentation/quickstart/aws) 
+For practical EC2 usage - you will probably want to check out [AWS Quick Start]({{ site.url }}/documentation/quickstart/aws/index.html) 
 
-If you get stuck, please consult the [Using Amazon EC2 with jclouds FAQ]({{ site.url }}/documentation/faqs/ec2-faq).
+If you get stuck, please consult the [Using Amazon EC2 with jclouds FAQ]({{ site.url }}/documentation/faqs/ec2-faq/index.html).
 
 ## Compatibility
 Private clouds often expose EC2-compatible interfaces.  Very commonly, users install clones on non-https, or self-signed servers.  If you do so, make sure you set the following properties:

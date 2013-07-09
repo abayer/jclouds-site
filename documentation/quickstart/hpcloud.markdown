@@ -11,7 +11,7 @@ This page helps you get started with jclouds API with
 2. Get your Account ID and Access Key by going to this [page](https://manage.hpcloud.com/api_keys).
 3. Ensure you are using a recent version of Java 6.
 4. Setup your project to include `hpcloud-objectstorage` and `hpcloud-compute`.
-	* Get the dependencies `org.jclouds.provider/hpcloud-objectstorage` and `org.jclouds.provider/hpcloud-compute` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide).
+	* Get the dependencies `org.jclouds.provider/hpcloud-objectstorage` and `org.jclouds.provider/hpcloud-compute` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide/index.html).
 5. Start coding.
 
 ** Note: The identity for hpcloud is the same now as of 1.5.0 which is "tenantName:userName" and the credential is "userPassword"

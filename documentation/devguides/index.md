@@ -9,19 +9,19 @@ Code hosting for jclouds is done on [GitHub](https://github.com/jclouds/jclouds)
 
 ## Working on jclouds
 	
-   *  [Contributing to the jclouds Code Base]({{ site.url }}/documentation/devguides/contributing-to-jclouds)
-   *  [An Introduction to Guava and Guice]({{ site.url }}/documentation/devguides/guice-guava-primer)
-   *  [Creating Providers with Maven Archetypes]({{ site.url }}/documentation/devguides/creating-providers-with-maven)
-   *  [Provider testing]({{ site.url }}/documentation/devguides/provider-testing)
-   *  [Contributing to Documentation]({{ site.url }}/documentation/devguides/contributing-to-documentation)
+   *  [Contributing to the jclouds Code Base]({{ site.url }}/documentation/devguides/contributing-to-jclouds/index.html)
+   *  [An Introduction to Guava and Guice]({{ site.url }}/documentation/devguides/guice-guava-primer/index.html)
+   *  [Creating Providers with Maven Archetypes]({{ site.url }}/documentation/devguides/creating-providers-with-maven/index.html)
+   *  [Provider testing]({{ site.url }}/documentation/devguides/provider-testing/index.html)
+   *  [Contributing to Documentation]({{ site.url }}/documentation/devguides/contributing-to-documentation/index.html)
 
 ## References for Developers
 
    *  [Google Code Site](http://code.google.com/p/jclouds/)
    *  [Issue Tracker](https://github.com/jclouds/jclouds/issues?state=open)
-   *  [jclouds Continuous Integration]({{ site.url }}/documentation/devguides/continuous-integration)
-   *  [Provider Metadata]({{ site.url }}/documentation/devguides/provider-metadata)
-   *  [Using Eclipse]({{ site.url }}/documentation/devguides/using-eclipse)
+   *  [jclouds Continuous Integration]({{ site.url }}/documentation/devguides/continuous-integration/index.html)
+   *  [Provider Metadata]({{ site.url }}/documentation/devguides/provider-metadata/index.html)
+   *  [Using Eclipse]({{ site.url }}/documentation/devguides/using-eclipse/index.html)
 
 ## How to Get Help
 

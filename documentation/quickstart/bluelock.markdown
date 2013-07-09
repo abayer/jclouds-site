@@ -10,7 +10,7 @@ title: Quick Start - BlueLock vCloud Service
 1. Sign up for [BlueLock vCloud](http://www.bluelock.com/bluelock-cloud-hosting/)
 2. Ensure you are using a recent JDK 6
 3. Setup your project to include bluelock-vcdirector
-	a. Get the dependency `org.jclouds.provider/bluelock-vcdirector` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide).
+	a. Get the dependency `org.jclouds.provider/bluelock-vcdirector` using jclouds [Installation]({{ site.url }}/documentation/userguide/installation-guide/index.html).
 4. Start coding.
 
 {% highlight java %}
